@@ -14,3 +14,6 @@ splitName-type of information gain we can have: "Entropy", "MajorityError", or "
 columns-a list contains all columns header\
 maxDepth-int of max depth for the tree\
 currDepth-int of current depth for the tree
+
+#### For HW2-:
+My program for running ensemble learning takes a longer time than expected.
