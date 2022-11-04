@@ -28,4 +28,6 @@ BiasVariance2e.py
 Linear Regression-run GradientDescent.py to get answer
 
 #### For HW3-Perceptron:
-There is Standard Perceptron, Voted Perceptron and Average Perceptron to use.
+There is Standard Perceptron, Voted Perceptron and Average Perceptron to use.\
+The parameters would be data, learning rate and number of epoch.\
+StandardPerceptron(data, r, T) VotedPerceptron(data, r, T) AveragePerceptron(data, r, T)
