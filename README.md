@@ -17,3 +17,12 @@ currDepth-int of current depth for the tree
 
 #### For HW2-:
 My program for running ensemble learning takes a longer time than expected.
+
+Ensemble Learning- run each python file below to get part 1-5 answer
+AdaBoost.py
+Bagging.py
+BiasVariance.py
+RandomForest.py
+BiasVariance2e.py
+
+Linear Regression-run GradientDescent.py to get answer
