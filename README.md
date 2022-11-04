@@ -15,10 +15,10 @@ columns-a list contains all columns header\
 maxDepth-int of max depth for the tree\
 currDepth-int of current depth for the tree
 
-#### For HW2-:
+#### For HW2-Ensemble Learning and Linear Regression:
 My program for running ensemble learning takes a longer time than expected.
 
-Ensemble Learning- run each python file below to get part 1-5 answer
+Ensemble Learning- run each python file below to get part 1-5 answer\
 AdaBoost.py
 Bagging.py
 BiasVariance.py
@@ -26,3 +26,6 @@ RandomForest.py
 BiasVariance2e.py
 
 Linear Regression-run GradientDescent.py to get answer
+
+#### For HW3-Perceptron:
+There is Standard Perceptron, Voted Perceptron and Average Perceptron to use.
