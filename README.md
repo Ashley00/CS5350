@@ -31,3 +31,8 @@ Linear Regression-run GradientDescent.py to get answer
 There is Standard Perceptron, Voted Perceptron and Average Perceptron to use.\
 The parameters would be data, learning rate and number of epoch.\
 StandardPerceptron(data, r, T) VotedPerceptron(data, r, T) AveragePerceptron(data, r, T)
+
+#### For HW4-SVM:
+primal.py is to run the SVM in primal form\
+dual.py is to run the SVM in dual form\
+The dual.py might take around 1 hour to run and print all the results
