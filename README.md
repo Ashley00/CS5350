@@ -36,3 +36,6 @@ StandardPerceptron(data, r, T) VotedPerceptron(data, r, T) AveragePerceptron(dat
 primal.py is to run the SVM in primal form\
 dual.py is to run the SVM in dual form\
 The dual.py might take around 1 hour to run and print all the results
+
+#### For HW5-NeuralNetwork:
+nn.py contains functions that do forward-pass, back-propagation, training neural network, and make predictions
